@@ -28,9 +28,9 @@ A lightweight, fast desktop diff viewer for Windows built with .NET 8 and WPF.
 - WPF (Windows Presentation Foundation)
 - C# 12
 
-
 ## 📦 Installation
 
 1. Download `AshvaniCompareSetup.exe`
 2. Run the installer (per-user, no admin required)
 3. Launch from Start Menu or Desktop shortcut
+4. If Windows is not allowing you to install, then you can download the InstallationFiles.zip and run the app without installation.
